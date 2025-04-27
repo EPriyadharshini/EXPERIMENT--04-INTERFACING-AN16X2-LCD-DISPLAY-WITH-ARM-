@@ -179,15 +179,16 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   Lcd_HandleTypeDef lcd;
   lcd = Lcd_create(ports, pins, GPIOB, GPIO_PIN_0, GPIOB, GPIO_PIN_1, LCD_4_BIT_MODE);
   Lcd_cursor(&lcd, 0,1);
-  Lcd_string(&lcd,"DHIRAVIYA");
+  Lcd_string(&lcd,"priyadharshini");
   Lcd_cursor(&lcd, 1,1);
-  Lcd_string(&lcd,"212223040041");
+  Lcd_string(&lcd,"212223230159");
 ```
 
 
 ## Output screen shots of proteus  :
  
- ![image](https://github.com/user-attachments/assets/f6800ed0-8087-49a7-b246-ec51d3b0c3ee)
+![image](https://github.com/user-attachments/assets/8ead674e-e3aa-491d-9715-df06403c1886)
+
 
  
  
